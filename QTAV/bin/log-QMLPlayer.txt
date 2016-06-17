@@ -1,0 +1,13 @@
+Debug: arguments=======  ("C:\\GIT\\QTAV\\QtAV1.9.0-VS2015x64\\bin\\QMLPlayer.exe", "-f", "C:\\h264_2.h264")
+Debug: current dir:  "C:/GIT/QTAV/QtAV1.9.0-VS2015x64/bin"
+Warning: QWindowsEGLStaticContext::create: Could not initialize EGL display: error 0x3001
+Warning: QWindowsEGLStaticContext::create: When using ANGLE, check if d3dcompiler_4x.dll is available
+Warning: QWindowsEGLStaticContext::create: Could not initialize EGL display: error 0x3001
+Warning: QWindowsEGLStaticContext::create: When using ANGLE, check if d3dcompiler_4x.dll is available
+Debug: ("C:/GIT/QTAV/QtAV1.9.0-VS2015x64/bin", "C:/GIT/QTAV/QtAV1.9.0-VS2015x64/bin/qml")
+Debug: >>>>>>>>devicePixelRatio: 1.000000
+Debug: dpi phy:  71.9833 , logical:  96 , dpr:  1 ; vis rect: QRect(0,0 2646x1024)
+Warning: QWindowsEGLStaticContext::create: Could not initialize EGL display: error 0x3001
+Warning: QWindowsEGLStaticContext::create: When using ANGLE, check if d3dcompiler_4x.dll is available
+Warning: QWindowsEGLStaticContext::create: Could not initialize EGL display: error 0x3001
+Warning: QWindowsEGLStaticContext::create: When using ANGLE, check if d3dcompiler_4x.dll is available

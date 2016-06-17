@@ -1,0 +1,177 @@
+Debug: vo: gl
+Debug: -f set:  "C:\\Users\\bmtimkulu\\Music\\local\\AKA - Dreamwork ft. Yanga.mp3"
+Warning: QWindowsEGLStaticContext::create: Could not initialize EGL display: error 0x3001
+Warning: QWindowsEGLStaticContext::create: When using ANGLE, check if d3dcompiler_4x.dll is available
+Warning: QWindowsEGLStaticContext::create: Could not initialize EGL display: error 0x3001
+Warning: QWindowsEGLStaticContext::create: When using ANGLE, check if d3dcompiler_4x.dll is available
+Debug: status changed  "Loaded"
+Debug: ScreenSaver::retrieveState
+Debug: Succeed to enable screen saver (0)
+Debug: track found!!!!!
+Debug: status changed  "Buffering..."
+Debug: status changed  "Buffered"
+Warning: QObject::moveToThread: Cannot move objects with a parent
+Debug: status changed  "Buffering..."
+Debug: status changed  "Buffered"
+Debug: status changed  "Buffering..."
+Debug: status changed  "Buffered"
+Debug: status changed  "Buffering..."
+Debug: status changed  "Buffered"
+Debug: status changed  "Buffering..."
+Debug: status changed  "Buffered"
+Debug: status changed  "Buffering..."
+Debug: status changed  "Buffered"
+Debug: status changed  "Buffering..."
+Debug: status changed  "Buffered"
+Debug: status changed  "Buffering..."
+Debug: status changed  "Buffered"
+Debug: seek finished at 231576
+Debug: pressed (48, 8)
+Debug: accept
+Debug: pressed (75, 8)
+Debug: accept
+Debug: pressed (80, 8)
+Debug: pressed (47, 6)
+Debug: accept
+Debug: pressed (14, 9)
+Debug: accept
+Debug: pressed (66, 13)
+Debug: accept
+Debug: pressed (83, 13)
+Debug: accept
+Debug: pressed (788, 10)
+Debug: accept
+Debug: status changed  "Buffering..."
+Debug: status changed  "Buffered"
+Debug: seek finished at 333349
+Debug: status changed  "Buffering..."
+Debug: status changed  "Buffered"
+Debug: >>>>>>>>>>>>>>disable slider
+Debug: Succeed to enable screen saver (1)
+Debug: status changed  ""
+Debug: >>>>>>>>>>>>>>disable slider
+Debug: Succeed to enable screen saver (1)
+Warning: QObject::killTimer(): Error: timer id 1 is not valid for object 0x30fa70 (MainWindow, ), timer has not been killed
+Debug: status changed  "Loaded"
+Debug: Succeed to enable screen saver (0)
+Debug: status changed  "Buffering..."
+Debug: status changed  "Buffered"
+Debug: status changed  "Buffering..."
+Debug: status changed  "Buffered"
+Debug: status changed  "Buffering..."
+Debug: >>>>>>>>>>>>>>disable slider
+Debug: Succeed to enable screen saver (1)
+Debug: status changed  ""
+Debug: >>>>>>>>>>>>>>disable slider
+Debug: Succeed to enable screen saver (1)
+Warning: QObject::killTimer(): Error: timer id 4 is not valid for object 0x30fa70 (MainWindow, ), timer has not been killed
+Debug: status changed  "Loaded"
+Debug: Succeed to enable screen saver (0)
+Debug: status changed  "Buffering..."
+Debug: status changed  "Buffered"
+Debug: >>>>>>>>>>>>>>disable slider
+Debug: Succeed to enable screen saver (1)
+Debug: status changed  ""
+Debug: >>>>>>>>>>>>>>disable slider
+Debug: Succeed to enable screen saver (1)
+Warning: QObject::killTimer(): Error: timer id 1 is not valid for object 0x30fa70 (MainWindow, ), timer has not been killed
+Debug: status changed  "Loaded"
+Debug: Succeed to enable screen saver (0)
+Debug: status changed  "Buffering..."
+Debug: status changed  "Buffered"
+Debug: status changed  "Buffering..."
+Debug: status changed  "Buffered"
+Warning: Queue is still empty
+Debug: status changed  "Buffering..."
+Debug: status changed  "Buffered"
+Debug: status changed  "Buffering..."
+Debug: >>>>>>>>>>>>>>disable slider
+Debug: Succeed to enable screen saver (1)
+Debug: status changed  ""
+Debug: >>>>>>>>>>>>>>disable slider
+Debug: Succeed to enable screen saver (1)
+Warning: QObject::killTimer(): Error: timer id 6 is not valid for object 0x30fa70 (MainWindow, ), timer has not been killed
+Debug: status changed  "Loaded"
+Debug: Succeed to enable screen saver (0)
+Debug: status changed  "Buffering..."
+Debug: status changed  "Buffered"
+Debug: status changed  "Buffering..."
+Debug: status changed  "Buffered"
+Debug: status changed  "Buffering..."
+Debug: status changed  "Buffered"
+Debug: status changed  "Buffering..."
+Debug: status changed  "Buffered"
+Debug: status changed  "Buffering..."
+Debug: status changed  "Buffered"
+Debug: status changed  "Buffering..."
+Debug: status changed  "Buffered"
+Warning: Queue is still empty
+Debug: status changed  "Buffering..."
+Debug: status changed  "Buffered"
+Debug: status changed  "Buffering..."
+Debug: >>>>>>>>>>>>>>disable slider
+Debug: Succeed to enable screen saver (1)
+Debug: status changed  ""
+Debug: >>>>>>>>>>>>>>disable slider
+Debug: Succeed to enable screen saver (1)
+Warning: QObject::killTimer(): Error: timer id 5 is not valid for object 0x30fa70 (MainWindow, ), timer has not been killed
+Debug: status changed  "Loaded"
+Debug: Succeed to enable screen saver (0)
+Debug: status changed  "Buffering..."
+Debug: status changed  "Buffered"
+Debug: isPaused = 0
+Debug: start pausing...
+Debug: isPaused = 1
+Debug: stop pausing...
+Debug: isPaused = 0
+Debug: start pausing...
+Debug: isPaused = 1
+Debug: stop pausing...
+Warning: Queue is still empty
+Debug: status changed  "Buffering..."
+Debug: status changed  "Buffered"
+Debug: status changed  "Buffering..."
+Debug: status changed  "Buffered"
+Debug: status changed  "Buffering..."
+Debug: >>>>>>>>>>>>>>disable slider
+Debug: Succeed to enable screen saver (1)
+Debug: status changed  ""
+Debug: >>>>>>>>>>>>>>disable slider
+Debug: Succeed to enable screen saver (1)
+Warning: QObject::killTimer(): Error: timer id 10 is not valid for object 0x30fa70 (MainWindow, ), timer has not been killed
+Debug: status changed  "Loaded"
+Debug: Succeed to enable screen saver (0)
+Debug: status changed  "Buffering..."
+Debug: status changed  "Buffered"
+Debug: >>>>>>>>>>>>>>disable slider
+Debug: Succeed to enable screen saver (1)
+Debug: status changed  ""
+Debug: >>>>>>>>>>>>>>disable slider
+Debug: Succeed to enable screen saver (1)
+Warning: QObject::killTimer(): Error: timer id 1 is not valid for object 0x30fa70 (MainWindow, ), timer has not been killed
+Debug: status changed  "Loaded"
+Debug: Succeed to enable screen saver (0)
+Debug: status changed  "Buffering..."
+Debug: status changed  "Buffered"
+Debug: status changed  "Buffering..."
+Debug: status changed  "Buffered"
+Debug: status changed  "Buffering..."
+Debug: status changed  "Buffered"
+Debug: status changed  "Buffering..."
+Debug: status changed  "Buffered"
+Debug: status changed  "Buffering..."
+Debug: status changed  "Buffered"
+Debug: status changed  "Buffering..."
+Debug: status changed  "Buffered"
+Debug: status changed  "Buffering..."
+Debug: status changed  "Buffered"
+Debug: status changed  "Buffering..."
+Debug: status changed  "Buffered"
+Debug: >>>>>>>>>>>>>>disable slider
+Debug: Succeed to enable screen saver (1)
+Debug: status changed  ""
+Debug: >>>>>>>>>>>>>>disable slider
+Debug: Succeed to enable screen saver (1)
+Warning: QObject::killTimer(): Error: timer id 9 is not valid for object 0x30fa70 (MainWindow, ), timer has not been killed
+Warning: QMutex: destroying locked mutex
+Warning: ScreenSaver::restoreState: no data, doing nothing
