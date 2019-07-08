@@ -16,7 +16,7 @@ AirServer
 =========
 - Open the AirServer.pro file using QT5.6.
 - Go to Projects on the right pane (It has a book icon).
-- Under Genera, change the build directory to "build\debug"
+- Under General, change the build directory to "build\debug"
 - Run qmake
 - Rebuild the project
 - After you build, make sure you copy the contents of the /bin file to where your exercitable (.exe) file is,
